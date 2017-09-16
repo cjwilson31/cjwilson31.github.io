@@ -19,14 +19,18 @@ h1 {
     text-align:center;
 }
 
-p {
+p {  
     margin-left:100px;
     margin-right:100px;
+    }
 
+/*
+    *-block-
 footer {
      
     margin-bottom: 20px;
 }
+    */
 #footer {
     position:absolute;
     bottom:0;
