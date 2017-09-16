@@ -11,5 +11,12 @@ p {
     margin-left:100px;
     margin-right:100px;
 
-footer {margin-bottom: 20px;
+footer {
+     
+    margin-bottom: 20px;
 }
+#footer {
+    position: absolute;
+    bottom:0;
+    width:100%
+    }
