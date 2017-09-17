@@ -14,14 +14,15 @@ h1 {
 }
 
 p {  
-    margin-left:100px;
-    margin-right:100px;
+  
     text-align:left;
     }
 
 footer {
      
     margin-bottom: 20px;
+    margin-left:20px;
+    margin-right:10px;
 }
     
 
